@@ -10,9 +10,6 @@ This repository contains a MySQL data analysis project focused on exploring user
 - [Objective](#objective)
 - [Project Structure](#project-structure)
 - [Results](#results)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Objective
 
